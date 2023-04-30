@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "notlar/src",
+        "notlar/Methodlar",
+        "notlar/Inheritance/Point",
+        "notlar/Inheritance/Pet",
+        "notlar/Inheritance/GeometricObject",
+        "notlar/Collectıons",
+        "notlar/ClassÖrnekleri",
+        "notlar/Array",
+        "notlar/İfElse_DoWhile_SwitchCase"
+    ]
+}

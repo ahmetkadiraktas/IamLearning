@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .my-custom-hover {
+        text-shadow: 0 0 5px rgb(254, 57, 57), 0 0 10px rgb(254, 57, 57), 0 0 15px rgb(254, 57, 57);
+    }
+  }
